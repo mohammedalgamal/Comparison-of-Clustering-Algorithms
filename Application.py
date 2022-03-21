@@ -1,13 +1,5 @@
 """
-Student template code for Project 3
-Student will implement five functions:
-
-slow_closest_pair(cluster_list)
-fast_closest_pair(cluster_list)
-closest_pair_strip(cluster_list, horiz_center, half_width)
-hierarchical_clustering(cluster_list, num_clusters)
-kmeans_clustering(cluster_list, num_clusters, num_iterations)
-
+code for Project 3
 where cluster_list is a 2D list of clusters in the plane
 """
 
